@@ -4,3 +4,4 @@
 4. Linear Diophantine: integer solutions for linear equations.
 5. Chinese Remainder Theorem: solve modular equations with coprime moduli for unique solutions.
 6. AES: Python script for file encryption using AES algorithm, providing secure encryption and decryption functionalities with user-set passwords. Features a setup process for password initialization and user-friendly options for file manipulation.
+7. RSA: Python script employing the cryptography library for RSA key generation, serialization, and demonstrating secure encryption and decryption using OAEP padding.
